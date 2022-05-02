@@ -62,7 +62,7 @@ while(1):
         break
 cv2.destroyAllWindows()
 
-
+#run by cd into directory and then "python color_detection.py -i colorpic.jpg"
 
 
 
